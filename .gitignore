@@ -1,0 +1,11 @@
+# Python
+__pycache__/
+.venv/
+*.pyc
+
+# Ambiente/Chaves
+.env
+.env.local
+
+# VS Code
+.vscode/
