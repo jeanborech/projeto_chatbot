@@ -1,0 +1,301 @@
+Invoice ID,Branch,City,Customer type,Gender,Product line,Unit price,Quantity,Tax 5%,Total,Date,Time,Payment,cogs,gross margin percentage,gross income,Rating
+26295e53,B,City C,Normal,Female,Health and beauty,85.88,7,30.06,631.22,2024-02-14,01:03:31,Ewallet,601.16,4.76,30.06,9.6
+b2641992,B,City C,Normal,Female,Health and beauty,16.26,6,4.88,102.44,2024-06-20,02:00:13,Cash,97.56,4.76,4.88,5.4
+185a69a4,C,City A,Member,Male,Health and beauty,54.51,3,8.18,171.71,2024-11-07,14:54:48,Ewallet,163.53,4.76,8.18,7.3
+f8dad413,A,City B,Normal,Female,Electronic accessories,96.22,1,4.81,101.03,2024-10-08,08:34:35,Credit card,96.22,4.76,4.81,5.5
+7624acf3,B,City C,Normal,Male,Food and beverages,35.1,10,17.55,368.55,2024-02-21,09:05:20,Credit card,351.0,4.76,17.55,8.7
+6eed0144,C,City A,Member,Female,Health and beauty,59.13,4,11.83,248.35,2024-09-28,19:34:10,Credit card,236.52,4.76,11.83,9.6
+907fdb42,C,City B,Normal,Male,Sports and travel,93.92,8,37.57,788.93,2024-12-17,19:00:18,Credit card,751.36,4.76,37.57,4.9
+fd1dbe72,B,City A,Member,Female,Fashion accessories,83.44,2,8.34,175.22,2024-10-09,16:32:51,Ewallet,166.88,4.76,8.34,4.3
+ba988374,A,City B,Member,Female,Fashion accessories,94.78,5,23.7,497.6,2024-12-21,08:18:15,Cash,473.9,4.76,23.7,7.0
+48c29a8a,B,City C,Member,Female,Electronic accessories,13.71,9,6.17,129.56,2024-08-29,09:00:21,Cash,123.39,4.76,6.17,4.6
+2a84b707,C,City A,Normal,Male,Electronic accessories,29.88,3,4.48,94.12,2024-04-08,03:01:34,Cash,89.64,4.76,4.48,5.0
+a3319a56,B,City B,Member,Male,Fashion accessories,92.63,5,23.16,486.31,2024-03-12,17:43:38,Credit card,463.15,4.76,23.16,6.9
+dbd3eaf2,B,City A,Normal,Female,Sports and travel,16.08,6,4.82,101.3,2024-06-26,09:12:23,Credit card,96.48,4.76,4.82,4.7
+f9eca4a1,C,City A,Member,Female,Sports and travel,22.79,3,3.42,71.79,2024-01-17,06:55:07,Cash,68.37,4.76,3.42,6.7
+107745f7,B,City B,Normal,Female,Health and beauty,15.09,1,0.75,15.84,2024-10-11,14:04:40,Credit card,15.09,4.76,0.75,9.4
+df4c8a94,A,City B,Normal,Male,Food and beverages,80.07,6,24.02,504.44,2024-11-07,03:22:02,Ewallet,480.42,4.76,24.02,6.6
+291bf56e,B,City A,Member,Male,Electronic accessories,84.31,10,42.16,885.26,2025-01-04,02:18:55,Ewallet,843.1,4.76,42.16,6.8
+4564df36,A,City B,Member,Male,Electronic accessories,19.55,10,9.78,205.28,2024-03-07,15:11:27,Ewallet,195.5,4.76,9.78,9.2
+67d30e50,A,City A,Member,Female,Food and beverages,94.87,4,18.97,398.45,2024-05-01,20:57:15,Credit card,379.48,4.76,18.97,5.0
+6824803b,C,City B,Member,Female,Fashion accessories,62.7,5,15.68,329.18,2025-01-01,19:20:10,Cash,313.5,4.76,15.68,7.5
+604e324b,A,City B,Normal,Female,Health and beauty,50.44,5,12.61,264.81,2024-04-01,04:59:40,Cash,252.2,4.76,12.61,4.8
+806b4087,A,City A,Normal,Male,Fashion accessories,53.39,6,16.02,336.36,2024-02-15,03:45:03,Cash,320.34,4.76,16.02,9.5
+b27b769b,C,City C,Member,Male,Electronic accessories,68.35,2,6.83,143.53,2024-10-08,22:05:44,Credit card,136.7,4.76,6.83,5.3
+7ddeaeb3,A,City C,Member,Male,Food and beverages,44.2,4,8.84,185.64,2024-06-20,13:18:21,Cash,176.8,4.76,8.84,8.1
+073fab3c,B,City C,Normal,Female,Fashion accessories,95.73,5,23.93,502.58,2024-06-07,09:00:31,Ewallet,478.65,4.76,23.93,5.9
+f4ff221a,B,City C,Normal,Female,Sports and travel,83.05,7,29.07,610.42,2024-03-31,15:51:05,Ewallet,581.35,4.76,29.07,8.8
+050e0b48,A,City B,Member,Female,Food and beverages,86.55,9,38.95,817.9,2024-10-15,08:41:46,Cash,778.95,4.76,38.95,6.0
+26ce59b9,B,City B,Normal,Male,Electronic accessories,80.76,2,8.08,169.6,2024-03-02,19:07:02,Cash,161.52,4.76,8.08,7.3
+e7082c13,C,City B,Member,Male,Electronic accessories,72.25,7,25.29,531.04,2024-11-16,09:51:50,Credit card,505.75,4.76,25.29,8.5
+7a16253c,B,City C,Normal,Male,Fashion accessories,34.63,1,1.73,36.36,2024-03-12,02:42:46,Ewallet,34.63,4.76,1.73,4.0
+4405c523,A,City C,Normal,Female,Health and beauty,37.48,2,3.75,78.71,2024-08-27,03:29:53,Credit card,74.96,4.76,3.75,5.6
+70c8719a,A,City C,Normal,Female,Home and lifestyle,84.74,8,33.9,711.82,2024-05-29,04:19:00,Ewallet,677.92,4.76,33.9,4.1
+72d987fd,B,City C,Member,Male,Health and beauty,53.1,1,2.66,55.76,2024-04-18,16:44:51,Credit card,53.1,4.76,2.66,8.4
+98f92602,A,City B,Normal,Female,Fashion accessories,72.25,3,10.84,227.59,2024-07-18,10:25:54,Cash,216.75,4.76,10.84,6.5
+b2cce755,C,City A,Normal,Male,Sports and travel,82.31,10,41.16,864.26,2024-04-01,14:15:32,Cash,823.1,4.76,41.16,5.8
+a746d34e,C,City C,Normal,Male,Health and beauty,93.79,9,42.21,886.32,2024-09-20,10:23:35,Credit card,844.11,4.76,42.21,8.0
+3899abe1,A,City A,Normal,Male,Home and lifestyle,76.46,2,7.65,160.57,2024-03-14,14:50:02,Ewallet,152.92,4.76,7.65,8.1
+9bfbfd36,B,City A,Normal,Female,Sports and travel,76.51,1,3.83,80.34,2025-01-12,00:10:27,Credit card,76.51,4.76,3.83,9.1
+f7dc2a0b,C,City C,Member,Female,Electronic accessories,25.15,1,1.26,26.41,2024-08-17,01:59:37,Cash,25.15,4.76,1.26,5.2
+72d4da02,A,City A,Member,Female,Home and lifestyle,54.28,3,8.14,170.98,2024-05-06,18:12:26,Ewallet,162.84,4.76,8.14,7.2
+d0498f56,C,City C,Member,Male,Sports and travel,44.49,2,4.45,93.43,2024-09-16,10:32:42,Ewallet,88.98,4.76,4.45,5.0
+81feea71,C,City B,Normal,Female,Electronic accessories,65.12,10,32.56,683.76,2024-03-17,18:52:54,Cash,651.2,4.76,32.56,4.4
+e9e207be,C,City A,Normal,Male,Sports and travel,77.36,4,15.47,324.91,2024-11-21,02:51:23,Cash,309.44,4.76,15.47,5.0
+87659a16,A,City C,Member,Male,Sports and travel,40.1,6,12.03,252.63,2024-07-29,09:38:11,Credit card,240.6,4.76,12.03,7.6
+13c580ab,C,City A,Normal,Female,Health and beauty,55.03,4,11.01,231.13,2024-12-16,16:03:36,Ewallet,220.12,4.76,11.01,4.8
+e913489c,C,City C,Normal,Female,Food and beverages,19.26,6,5.78,121.34,2024-08-19,13:08:46,Ewallet,115.56,4.76,5.78,6.8
+42165831,A,City A,Normal,Female,Fashion accessories,27.87,8,11.15,234.11,2024-02-10,01:46:02,Credit card,222.96,4.76,11.15,7.4
+baf3da03,B,City A,Member,Male,Fashion accessories,42.08,1,2.1,44.18,2024-10-12,03:09:34,Ewallet,42.08,4.76,2.1,8.9
+e775e464,B,City A,Normal,Female,Sports and travel,63.08,3,9.46,198.7,2024-06-22,21:52:29,Cash,189.24,4.76,9.46,5.4
+1b572515,C,City A,Normal,Female,Sports and travel,36.3,8,14.52,304.92,2024-09-12,08:53:05,Ewallet,290.4,4.76,14.52,5.6
+9faccb57,A,City C,Normal,Female,Food and beverages,25.88,4,5.18,108.7,2024-01-29,14:26:13,Credit card,103.52,4.76,5.18,9.0
+e5312ac5,C,City C,Member,Male,Electronic accessories,69.03,5,17.26,362.41,2024-10-23,01:26:57,Credit card,345.15,4.76,17.26,6.7
+5a1ab40e,B,City C,Normal,Female,Electronic accessories,70.93,2,7.09,148.95,2024-08-13,02:30:21,Credit card,141.86,4.76,7.09,9.6
+56c32c27,A,City C,Normal,Female,Home and lifestyle,67.86,1,3.39,71.25,2024-07-31,20:47:36,Credit card,67.86,4.76,3.39,9.6
+cf0d56e8,A,City C,Normal,Female,Home and lifestyle,85.61,4,17.12,359.56,2024-10-18,23:33:05,Ewallet,342.44,4.76,17.12,8.5
+5df49bc4,C,City B,Normal,Male,Sports and travel,89.07,9,40.08,841.71,2024-07-23,04:13:02,Cash,801.63,4.76,40.08,7.0
+07e1e758,C,City C,Member,Female,Home and lifestyle,58.67,10,29.34,616.04,2024-03-02,00:11:16,Cash,586.7,4.76,29.34,8.7
+06c45156,C,City C,Member,Female,Fashion accessories,86.9,9,39.11,821.21,2024-04-06,12:34:32,Ewallet,782.1,4.76,39.11,8.5
+0cdf5192,B,City C,Normal,Female,Home and lifestyle,96.66,2,9.67,202.99,2024-07-19,16:59:48,Ewallet,193.32,4.76,9.67,8.4
+cf6a4ca6,C,City A,Member,Male,Food and beverages,41.51,2,4.15,87.17,2024-04-19,11:34:19,Ewallet,83.02,4.76,4.15,7.6
+f3de75fe,B,City A,Member,Female,Food and beverages,94.53,4,18.91,397.03,2024-02-15,03:31:23,Credit card,378.12,4.76,18.91,7.5
+6086820d,C,City A,Member,Female,Home and lifestyle,54.23,4,10.85,227.77,2024-10-05,14:23:43,Ewallet,216.92,4.76,10.85,8.0
+a62bf627,B,City B,Normal,Male,Fashion accessories,81.18,8,32.47,681.91,2024-12-07,10:24:17,Credit card,649.44,4.76,32.47,7.8
+89d769bd,A,City C,Member,Male,Electronic accessories,91.99,1,4.6,96.59,2024-05-09,18:59:11,Ewallet,91.99,4.76,4.6,5.8
+f0ebeaf4,A,City C,Normal,Male,Health and beauty,30.52,1,1.53,32.05,2024-06-21,16:45:41,Cash,30.52,4.76,1.53,9.9
+c8eabe2e,A,City C,Member,Female,Home and lifestyle,13.63,6,4.09,85.87,2024-10-28,10:01:09,Credit card,81.78,4.76,4.09,4.2
+3c51d6bb,B,City C,Member,Female,Health and beauty,88.79,10,44.4,932.3,2024-07-21,19:48:42,Cash,887.9,4.76,44.4,8.5
+df12e910,B,City B,Member,Male,Sports and travel,60.42,7,21.15,444.09,2024-09-02,03:24:26,Ewallet,422.94,4.76,21.15,6.0
+dac296ab,A,City C,Normal,Female,Home and lifestyle,62.39,3,9.36,196.53,2024-11-05,20:51:48,Ewallet,187.17,4.76,9.36,8.0
+da480e3e,A,City A,Member,Male,Home and lifestyle,30.1,3,4.52,94.82,2024-05-04,18:52:07,Ewallet,90.3,4.76,4.52,5.4
+2230d6cc,A,City A,Member,Female,Electronic accessories,30.1,6,9.03,189.63,2024-11-13,23:25:47,Cash,180.6,4.76,9.03,7.8
+8c104969,B,City B,Normal,Female,Health and beauty,80.48,7,28.17,591.53,2024-11-08,21:43:18,Cash,563.36,4.76,28.17,4.4
+21ca8388,A,City A,Normal,Male,Electronic accessories,41.55,3,6.23,130.88,2024-09-26,11:42:34,Cash,124.65,4.76,6.23,4.4
+87804261,A,City A,Member,Male,Home and lifestyle,39.43,3,5.91,124.2,2024-11-03,05:44:38,Credit card,118.29,4.76,5.91,5.8
+76534bea,A,City C,Member,Male,Food and beverages,36.54,5,9.13,191.83,2024-08-29,13:00:41,Credit card,182.7,4.76,9.13,7.7
+7922dbd8,A,City B,Member,Female,Fashion accessories,61.3,4,12.26,257.46,2024-12-22,03:27:36,Ewallet,245.2,4.76,12.26,5.6
+3049559b,C,City A,Normal,Female,Food and beverages,62.41,8,24.96,524.24,2024-01-25,23:57:45,Ewallet,499.28,4.76,24.96,8.7
+00cb3c1f,A,City C,Member,Female,Home and lifestyle,39.89,6,11.97,251.31,2024-11-08,02:29:18,Ewallet,239.34,4.76,11.97,6.5
+4613c886,C,City A,Normal,Male,Electronic accessories,59.09,9,26.59,558.4,2024-10-25,20:08:22,Credit card,531.81,4.76,26.59,7.2
+fed8eb25,A,City B,Normal,Male,Home and lifestyle,75.46,6,22.64,475.4,2024-12-10,16:14:41,Ewallet,452.76,4.76,22.64,9.4
+f28f8dcf,A,City C,Member,Female,Food and beverages,11.15,5,2.79,58.54,2024-11-08,02:42:38,Cash,55.75,4.76,2.79,9.9
+819e3a49,B,City C,Normal,Male,Home and lifestyle,86.17,2,8.62,180.96,2025-01-07,22:47:46,Credit card,172.34,4.76,8.62,8.3
+aac6dea3,C,City C,Member,Female,Sports and travel,28.38,3,4.26,89.4,2024-08-13,15:07:47,Credit card,85.14,4.76,4.26,6.3
+bbc809ae,B,City B,Member,Female,Fashion accessories,11.19,6,3.36,70.5,2024-11-23,23:11:30,Cash,67.14,4.76,3.36,7.8
+b86a7a6b,C,City A,Member,Female,Fashion accessories,44.81,10,22.41,470.51,2024-12-06,04:14:31,Cash,448.1,4.76,22.41,8.4
+993315c9,C,City B,Normal,Male,Fashion accessories,58.46,5,14.62,306.92,2025-01-02,21:35:45,Credit card,292.3,4.76,14.62,6.8
+f5744092,C,City C,Normal,Female,Food and beverages,21.28,7,7.45,156.41,2024-05-14,09:34:29,Ewallet,148.96,4.76,7.45,6.9
+54ac0a7b,C,City B,Normal,Female,Food and beverages,24.14,2,2.41,50.69,2024-03-27,00:47:04,Credit card,48.28,4.76,2.41,5.2
+fc38d8fc,C,City B,Member,Male,Health and beauty,62.59,10,31.3,657.2,2024-10-18,22:22:39,Ewallet,625.9,4.76,31.3,6.5
+3fe98d65,C,City C,Member,Male,Food and beverages,52.34,10,26.17,549.57,2024-10-10,05:44:50,Credit card,523.4,4.76,26.17,7.7
+f89cf542,B,City A,Normal,Female,Food and beverages,41.4,7,14.49,304.29,2024-10-10,03:53:09,Credit card,289.8,4.76,14.49,9.1
+308eea60,C,City B,Normal,Female,Sports and travel,19.35,5,4.84,101.59,2024-12-04,22:28:58,Credit card,96.75,4.76,4.84,8.9
+85761f81,C,City B,Member,Male,Sports and travel,46.2,2,4.62,97.02,2024-07-30,18:49:52,Ewallet,92.4,4.76,4.62,6.3
+22b19018,B,City C,Normal,Female,Health and beauty,75.43,7,26.4,554.41,2024-07-09,02:59:48,Cash,528.01,4.76,26.4,5.9
+19eb9563,A,City B,Member,Male,Food and beverages,90.29,10,45.15,948.05,2024-06-28,10:33:03,Cash,902.9,4.76,45.15,8.6
+cedb41fe,B,City A,Normal,Female,Food and beverages,32.25,2,3.23,67.73,2024-11-11,08:35:58,Ewallet,64.5,4.76,3.23,4.1
+e3dc3be2,B,City B,Normal,Male,Food and beverages,77.58,6,23.27,488.75,2024-07-03,11:54:12,Cash,465.48,4.76,23.27,6.5
+b9c57288,B,City B,Member,Male,Fashion accessories,14.77,6,4.43,93.05,2024-01-25,06:12:06,Credit card,88.62,4.76,4.43,5.9
+581869cd,B,City A,Member,Female,Health and beauty,66.44,7,23.25,488.33,2024-01-25,11:59:54,Ewallet,465.08,4.76,23.25,8.8
+aeb51a20,C,City B,Member,Male,Food and beverages,41.26,1,2.06,43.32,2024-08-24,13:12:24,Credit card,41.26,4.76,2.06,5.1
+a3f5cf61,A,City C,Member,Female,Health and beauty,85.99,8,34.4,722.32,2024-11-02,03:48:17,Ewallet,687.92,4.76,34.4,5.1
+eacf50f8,A,City A,Normal,Male,Food and beverages,30.49,8,12.2,256.12,2024-08-03,07:52:32,Credit card,243.92,4.76,12.2,9.3
+4069db2c,B,City B,Member,Male,Sports and travel,56.76,7,19.87,417.19,2024-04-11,06:58:16,Cash,397.32,4.76,19.87,6.8
+a0e3cd19,B,City C,Member,Male,Home and lifestyle,18.69,10,9.35,196.25,2024-12-04,06:29:21,Ewallet,186.9,4.76,9.35,9.0
+111e4d8a,A,City A,Normal,Male,Electronic accessories,28.12,10,14.06,295.26,2025-01-12,23:43:41,Ewallet,281.2,4.76,14.06,9.3
+fd647f66,A,City C,Member,Male,Health and beauty,98.76,3,14.81,311.09,2024-06-26,14:43:01,Ewallet,296.28,4.76,14.81,4.1
+12d39639,A,City C,Normal,Male,Fashion accessories,56.06,7,19.62,412.04,2025-01-12,21:26:29,Ewallet,392.42,4.76,19.62,6.7
+a880a314,A,City B,Normal,Female,Sports and travel,50.12,9,22.55,473.63,2024-09-27,15:20:21,Credit card,451.08,4.76,22.55,4.6
+090739b8,C,City A,Normal,Male,Fashion accessories,31.96,3,4.79,100.67,2024-11-16,23:30:41,Credit card,95.88,4.76,4.79,9.5
+70b90e9e,C,City A,Normal,Female,Food and beverages,78.69,10,39.34,826.24,2024-12-13,10:01:26,Credit card,786.9,4.76,39.34,9.4
+e3ae2a7a,A,City A,Member,Male,Food and beverages,77.88,10,38.94,817.74,2024-05-22,01:43:19,Ewallet,778.8,4.76,38.94,4.9
+079d0699,C,City B,Normal,Female,Electronic accessories,59.72,2,5.97,125.41,2024-10-23,06:09:44,Ewallet,119.44,4.76,5.97,4.4
+b2d01e40,C,City A,Member,Male,Food and beverages,13.13,1,0.66,13.79,2024-07-31,13:04:35,Credit card,13.13,4.76,0.66,7.7
+2f59fa7e,B,City C,Member,Male,Fashion accessories,81.08,4,16.22,340.54,2024-09-28,14:43:15,Cash,324.32,4.76,16.22,6.7
+3a32e32b,B,City B,Normal,Male,Health and beauty,79.54,8,31.82,668.14,2024-08-06,19:25:44,Cash,636.32,4.76,31.82,5.3
+1159c735,C,City B,Normal,Male,Home and lifestyle,25.57,1,1.28,26.85,2024-05-29,16:24:26,Cash,25.57,4.76,1.28,5.4
+8c8b590c,B,City C,Member,Male,Health and beauty,43.41,9,19.53,410.22,2024-05-16,02:46:52,Ewallet,390.69,4.76,19.53,8.0
+3ddbde62,A,City B,Member,Female,Fashion accessories,25.97,6,7.79,163.61,2024-10-10,08:34:27,Cash,155.82,4.76,7.79,8.7
+67a0fef3,C,City C,Normal,Female,Home and lifestyle,20.13,10,10.06,211.36,2024-09-12,10:00:20,Ewallet,201.3,4.76,10.06,7.7
+879d3cc3,A,City C,Member,Female,Food and beverages,82.73,4,16.55,347.47,2024-08-10,04:45:26,Cash,330.92,4.76,16.55,9.3
+825c088b,A,City A,Normal,Male,Food and beverages,84.48,6,25.34,532.22,2024-03-31,22:52:41,Ewallet,506.88,4.76,25.34,7.0
+ee91651e,B,City A,Member,Female,Food and beverages,65.11,8,26.04,546.92,2024-12-23,00:55:22,Credit card,520.88,4.76,26.04,9.3
+82244abc,C,City B,Normal,Male,Home and lifestyle,62.29,2,6.23,130.81,2024-05-22,04:17:13,Ewallet,124.58,4.76,6.23,9.5
+1d9aaf83,A,City B,Normal,Male,Fashion accessories,63.1,2,6.31,132.51,2024-06-01,12:12:46,Ewallet,126.2,4.76,6.31,6.2
+75826378,B,City A,Member,Female,Fashion accessories,69.84,1,3.49,73.33,2024-09-10,03:44:54,Ewallet,69.84,4.76,3.49,8.8
+c1233fe6,A,City B,Normal,Male,Electronic accessories,11.19,3,1.68,35.25,2024-11-21,09:17:53,Credit card,33.57,4.76,1.68,4.3
+1fdfe583,B,City B,Member,Male,Fashion accessories,79.78,8,31.91,670.15,2025-01-14,01:50:52,Cash,638.24,4.76,31.91,5.1
+37dafc20,C,City B,Member,Female,Food and beverages,60.37,8,24.15,507.11,2024-07-12,01:31:34,Cash,482.96,4.76,24.15,4.4
+df39c8d8,A,City B,Member,Male,Food and beverages,90.6,6,27.18,570.78,2024-05-23,04:10:59,Credit card,543.6,4.76,27.18,4.8
+231ed6b3,A,City C,Normal,Female,Health and beauty,99.96,5,24.99,524.79,2024-03-02,00:46:56,Credit card,499.8,4.76,24.99,7.0
+1f357211,B,City A,Normal,Female,Fashion accessories,61.73,4,12.35,259.27,2024-11-15,06:59:05,Credit card,246.92,4.76,12.35,6.6
+7068810a,C,City B,Normal,Male,Fashion accessories,67.29,2,6.73,141.31,2024-11-18,11:20:25,Cash,134.58,4.76,6.73,5.4
+ef6fbf65,C,City C,Member,Female,Food and beverages,81.15,9,36.52,766.87,2024-04-19,05:09:35,Ewallet,730.35,4.76,36.52,7.1
+6284ad78,B,City B,Normal,Female,Sports and travel,47.98,6,14.39,302.27,2024-10-21,11:27:53,Cash,287.88,4.76,14.39,7.0
+838d0cc9,B,City B,Member,Male,Food and beverages,55.11,1,2.76,57.87,2024-09-13,13:54:51,Credit card,55.11,4.76,2.76,9.0
+655d6077,C,City C,Normal,Female,Electronic accessories,81.34,3,12.2,256.22,2024-09-23,01:08:12,Cash,244.02,4.76,12.2,7.3
+aa6404b9,B,City C,Normal,Male,Electronic accessories,98.23,3,14.73,309.42,2024-02-28,19:22:08,Cash,294.69,4.76,14.73,8.0
+111bba9b,C,City A,Member,Male,Electronic accessories,95.76,10,47.88,1005.48,2024-12-06,20:27:27,Cash,957.6,4.76,47.88,4.8
+78204f38,B,City C,Normal,Female,Home and lifestyle,80.36,1,4.02,84.38,2024-12-27,21:37:48,Credit card,80.36,4.76,4.02,7.3
+e56000f3,A,City B,Member,Female,Fashion accessories,54.38,3,8.16,171.3,2024-06-20,07:01:54,Ewallet,163.14,4.76,8.16,6.2
+040ad374,C,City C,Member,Female,Fashion accessories,29.08,1,1.45,30.53,2024-06-13,07:13:15,Cash,29.08,4.76,1.45,8.7
+d7c46747,C,City C,Normal,Male,Home and lifestyle,34.37,3,5.16,108.27,2024-06-08,10:54:48,Ewallet,103.11,4.76,5.16,5.9
+306fd455,B,City C,Normal,Male,Home and lifestyle,39.08,5,9.77,205.17,2024-08-22,11:55:33,Cash,195.4,4.76,9.77,9.7
+63897822,A,City B,Normal,Female,Fashion accessories,50.49,3,7.57,159.04,2024-12-08,01:19:39,Cash,151.47,4.76,7.57,7.1
+7880d0cd,C,City A,Normal,Male,Home and lifestyle,26.39,5,6.6,138.55,2024-02-11,01:38:01,Ewallet,131.95,4.76,6.6,4.9
+cd936792,C,City C,Normal,Male,Fashion accessories,69.29,8,27.72,582.04,2024-08-17,11:25:31,Ewallet,554.32,4.76,27.72,7.9
+d80ea420,A,City C,Member,Female,Electronic accessories,43.57,10,21.79,457.49,2024-12-24,02:29:35,Ewallet,435.7,4.76,21.79,9.9
+3daff400,C,City B,Member,Male,Home and lifestyle,30.43,3,4.56,95.85,2024-01-27,04:23:04,Credit card,91.29,4.76,4.56,9.4
+bf076dcf,A,City C,Normal,Male,Home and lifestyle,20.42,7,7.15,150.09,2024-10-07,14:20:50,Cash,142.94,4.76,7.15,5.8
+e9169a8a,C,City C,Normal,Female,Food and beverages,89.09,2,8.91,187.09,2024-08-26,05:01:33,Cash,178.18,4.76,8.91,8.5
+cddfc1c6,C,City A,Member,Female,Home and lifestyle,64.24,6,19.27,404.71,2024-08-03,12:10:47,Cash,385.44,4.76,19.27,5.0
+e9e76bec,A,City A,Normal,Female,Electronic accessories,66.59,8,26.64,559.36,2024-06-23,06:30:59,Cash,532.72,4.76,26.64,4.4
+7c33797a,B,City A,Member,Female,Food and beverages,86.05,8,34.42,722.82,2024-03-07,13:36:58,Credit card,688.4,4.76,34.42,4.3
+4bddddae,B,City A,Normal,Male,Electronic accessories,25.91,8,10.36,217.64,2024-12-25,11:49:22,Cash,207.28,4.76,10.36,5.0
+27bfe344,B,City B,Normal,Male,Fashion accessories,88.58,5,22.14,465.04,2024-07-22,07:29:52,Cash,442.9,4.76,22.14,5.7
+8ab0dd2d,C,City B,Member,Male,Fashion accessories,78.49,5,19.62,412.07,2024-03-11,16:46:37,Ewallet,392.45,4.76,19.62,5.9
+44adde19,B,City A,Member,Female,Food and beverages,30.65,3,4.6,96.55,2024-12-21,03:40:33,Credit card,91.95,4.76,4.6,4.5
+19a4c6cb,C,City A,Normal,Female,Sports and travel,12.83,3,1.92,40.41,2025-01-04,06:08:45,Ewallet,38.49,4.76,1.92,9.2
+2347f267,B,City B,Member,Male,Health and beauty,81.87,6,24.56,515.78,2024-04-09,12:20:54,Ewallet,491.22,4.76,24.56,9.3
+ed43ceec,B,City B,Normal,Female,Fashion accessories,28.32,4,5.66,118.94,2024-11-14,05:34:09,Cash,113.28,4.76,5.66,9.8
+f122a2f2,A,City B,Normal,Male,Health and beauty,32.94,1,1.65,34.59,2024-07-16,18:16:11,Credit card,32.94,4.76,1.65,6.1
+fa8f0a0e,C,City C,Normal,Female,Home and lifestyle,92.75,8,37.1,779.1,2024-11-21,21:44:22,Ewallet,742.0,4.76,37.1,9.0
+40558a07,A,City A,Member,Male,Home and lifestyle,34.55,3,5.18,108.83,2024-06-30,18:50:16,Credit card,103.65,4.76,5.18,4.9
+99322a93,A,City A,Normal,Male,Health and beauty,26.36,9,11.86,249.1,2024-02-13,11:12:23,Cash,237.24,4.76,11.86,6.7
+ee207ccf,A,City A,Normal,Female,Electronic accessories,60.98,3,9.15,192.09,2024-12-08,14:38:00,Ewallet,182.94,4.76,9.15,4.4
+f2b6f4a0,A,City A,Member,Female,Electronic accessories,65.97,7,23.09,484.88,2024-07-03,22:52:02,Ewallet,461.79,4.76,23.09,7.4
+564c4785,A,City B,Normal,Male,Home and lifestyle,51.43,7,18.0,378.01,2024-08-02,10:11:17,Ewallet,360.01,4.76,18.0,5.2
+bc5b71ed,B,City B,Normal,Female,Food and beverages,32.43,2,3.24,68.1,2024-11-04,20:37:10,Cash,64.86,4.76,3.24,8.5
+e0edd05c,C,City B,Normal,Female,Fashion accessories,22.62,4,4.52,95.0,2024-03-12,20:13:15,Ewallet,90.48,4.76,4.52,8.3
+85e8ec05,B,City B,Member,Male,Fashion accessories,46.97,5,11.74,246.59,2024-10-21,05:51:17,Credit card,234.85,4.76,11.74,6.8
+16034bb0,C,City A,Member,Female,Home and lifestyle,22.37,6,6.71,140.93,2024-04-11,13:09:45,Cash,134.22,4.76,6.71,6.4
+cbc9b9f5,C,City C,Normal,Male,Sports and travel,28.76,9,12.94,271.78,2024-05-08,05:31:15,Cash,258.84,4.76,12.94,4.5
+09c98cd9,C,City C,Normal,Male,Sports and travel,48.59,6,14.58,306.12,2024-08-24,04:38:59,Credit card,291.54,4.76,14.58,5.7
+f0af6144,B,City B,Member,Female,Home and lifestyle,66.38,3,9.96,209.1,2024-02-02,04:16:14,Ewallet,199.14,4.76,9.96,6.2
+eb528aac,A,City A,Member,Male,Fashion accessories,43.66,7,15.28,320.9,2024-04-29,18:18:49,Ewallet,305.62,4.76,15.28,9.0
+8b7d025a,B,City A,Normal,Male,Fashion accessories,58.56,2,5.86,122.98,2024-09-27,09:30:14,Cash,117.12,4.76,5.86,5.8
+99b4ddf1,B,City B,Member,Male,Health and beauty,37.46,6,11.24,236.0,2024-05-01,23:49:45,Credit card,224.76,4.76,11.24,4.7
+621bb75b,B,City A,Member,Female,Fashion accessories,37.31,3,5.6,117.53,2024-12-25,21:39:30,Ewallet,111.93,4.76,5.6,4.4
+2b34637d,C,City B,Member,Female,Food and beverages,25.13,3,3.77,79.16,2024-05-18,12:07:03,Ewallet,75.39,4.76,3.77,7.4
+52c986c2,B,City B,Member,Female,Fashion accessories,31.18,10,15.59,327.39,2024-07-02,10:12:22,Ewallet,311.8,4.76,15.59,4.7
+ece39c00,A,City C,Normal,Male,Food and beverages,78.9,7,27.62,579.92,2025-01-07,21:07:42,Cash,552.3,4.76,27.62,5.8
+1b4f59ff,B,City A,Normal,Female,Food and beverages,52.98,1,2.65,55.63,2024-09-26,07:00:04,Credit card,52.98,4.76,2.65,9.8
+66029c4f,B,City B,Member,Male,Health and beauty,26.61,2,2.66,55.88,2024-09-25,07:55:22,Credit card,53.22,4.76,2.66,6.1
+33e74b30,C,City C,Member,Male,Fashion accessories,22.97,9,10.34,217.07,2024-12-26,18:51:22,Ewallet,206.73,4.76,10.34,8.7
+26f58c17,A,City B,Normal,Female,Fashion accessories,58.82,7,20.59,432.33,2024-05-23,21:51:29,Cash,411.74,4.76,20.59,6.7
+192bcdd4,A,City C,Member,Male,Food and beverages,42.33,3,6.35,133.34,2024-12-29,22:56:55,Credit card,126.99,4.76,6.35,5.2
+b862593a,B,City C,Member,Female,Sports and travel,24.41,1,1.22,25.63,2024-05-06,03:05:18,Cash,24.41,4.76,1.22,8.7
+db5a8341,C,City A,Normal,Female,Sports and travel,18.41,10,9.21,193.31,2024-05-22,19:32:40,Credit card,184.1,4.76,9.21,5.9
+094c7cdc,C,City A,Normal,Female,Food and beverages,56.03,4,11.21,235.33,2025-01-06,03:11:56,Ewallet,224.12,4.76,11.21,8.4
+30ef1274,A,City B,Normal,Female,Home and lifestyle,35.24,5,8.81,185.01,2024-02-08,12:34:38,Cash,176.2,4.76,8.81,7.9
+06a2cba4,C,City B,Normal,Female,Health and beauty,68.19,7,23.87,501.2,2024-05-21,17:40:42,Ewallet,477.33,4.76,23.87,6.9
+fee15bc7,B,City A,Normal,Female,Health and beauty,97.21,9,43.74,918.63,2024-07-19,03:49:35,Cash,874.89,4.76,43.74,9.7
+d4b2ed91,C,City C,Member,Male,Home and lifestyle,68.61,10,34.3,720.4,2024-12-25,11:50:35,Credit card,686.1,4.76,34.3,8.9
+0c895931,C,City A,Member,Female,Fashion accessories,30.26,8,12.1,254.18,2024-06-15,15:10:47,Cash,242.08,4.76,12.1,9.8
+90c928c9,B,City B,Member,Male,Home and lifestyle,99.68,6,29.9,627.98,2024-02-01,19:43:27,Ewallet,598.08,4.76,29.9,9.2
+722f8da8,C,City B,Member,Male,Food and beverages,55.68,9,25.06,526.18,2024-01-27,23:00:26,Ewallet,501.12,4.76,25.06,5.8
+6db9c2af,C,City B,Normal,Female,Home and lifestyle,66.7,6,20.01,420.21,2024-05-01,12:57:31,Cash,400.2,4.76,20.01,4.1
+95303c34,A,City B,Member,Female,Health and beauty,38.1,1,1.91,40.01,2024-03-09,20:19:39,Cash,38.1,4.76,1.91,9.4
+d9ab0af9,C,City C,Member,Male,Health and beauty,78.88,9,35.5,745.42,2024-12-05,19:14:49,Cash,709.92,4.76,35.5,9.9
+04f8fbe8,A,City A,Normal,Female,Health and beauty,89.88,2,8.99,188.75,2024-11-29,08:13:31,Cash,179.76,4.76,8.99,8.6
+632ba450,C,City B,Member,Female,Health and beauty,14.74,4,2.95,61.91,2024-12-11,02:00:16,Cash,58.96,4.76,2.95,5.5
+ed8d5045,A,City C,Member,Male,Health and beauty,92.3,6,27.69,581.49,2024-08-01,01:51:19,Ewallet,553.8,4.76,27.69,7.4
+b79677fc,C,City A,Member,Male,Food and beverages,65.26,1,3.26,68.52,2024-06-10,12:35:00,Ewallet,65.26,4.76,3.26,6.8
+ae58a5e0,A,City B,Normal,Male,Home and lifestyle,24.09,6,7.23,151.77,2024-12-08,21:53:28,Credit card,144.54,4.76,7.23,6.1
+57436b80,C,City A,Normal,Male,Food and beverages,71.11,7,24.89,522.66,2024-10-13,16:13:54,Cash,497.77,4.76,24.89,7.8
+d5f54661,C,City A,Member,Female,Home and lifestyle,96.6,5,24.15,507.15,2024-11-12,02:23:56,Cash,483.0,4.76,24.15,4.1
+4d90032c,A,City C,Member,Male,Food and beverages,52.17,9,23.48,493.01,2024-03-08,03:36:12,Ewallet,469.53,4.76,23.48,9.4
+09124144,A,City B,Normal,Female,Health and beauty,72.51,4,14.5,304.54,2025-01-14,10:21:17,Ewallet,290.04,4.76,14.5,9.6
+3558fc0d,A,City C,Member,Male,Home and lifestyle,94.32,9,42.44,891.32,2024-11-18,18:06:33,Cash,848.88,4.76,42.44,6.9
+1b747ee7,B,City C,Normal,Female,Health and beauty,55.46,2,5.55,116.47,2024-04-10,22:07:29,Credit card,110.92,4.76,5.55,7.2
+523d3c51,A,City A,Normal,Female,Home and lifestyle,60.49,10,30.25,635.15,2024-02-11,23:57:28,Cash,604.9,4.76,30.25,7.7
+8783d63c,C,City C,Normal,Male,Home and lifestyle,64.39,5,16.1,338.05,2024-11-10,17:21:35,Credit card,321.95,4.76,16.1,7.9
+3c6da2cf,B,City A,Normal,Female,Health and beauty,73.93,2,7.39,155.25,2024-10-19,15:57:37,Cash,147.86,4.76,7.39,6.5
+8c3424fc,B,City A,Member,Male,Food and beverages,94.13,3,14.12,296.51,2024-11-12,22:47:13,Ewallet,282.39,4.76,14.12,7.1
+79a27ffa,B,City C,Member,Male,Electronic accessories,64.02,10,32.01,672.21,2024-10-02,09:45:31,Credit card,640.2,4.76,32.01,5.6
+27469303,A,City B,Member,Male,Electronic accessories,21.58,2,2.16,45.32,2024-11-01,10:34:27,Cash,43.16,4.76,2.16,6.9
+c7cea858,A,City C,Normal,Male,Fashion accessories,98.09,7,34.33,720.96,2024-04-19,21:39:03,Credit card,686.63,4.76,34.33,7.8
+be1361dc,B,City B,Normal,Male,Food and beverages,48.74,3,7.31,153.53,2024-12-27,01:20:26,Cash,146.22,4.76,7.31,4.4
+33c4b523,A,City B,Normal,Female,Sports and travel,66.9,4,13.38,280.98,2024-05-23,20:23:36,Credit card,267.6,4.76,13.38,7.5
+c8b10b65,A,City C,Normal,Male,Health and beauty,43.41,7,15.19,319.06,2024-12-12,12:59:17,Cash,303.87,4.76,15.19,9.8
+8fa8dc46,A,City A,Member,Male,Home and lifestyle,50.41,8,20.16,423.44,2024-06-22,17:30:32,Credit card,403.28,4.76,20.16,6.2
+f2397d3b,B,City B,Member,Male,Home and lifestyle,16.7,3,2.5,52.6,2024-09-30,23:56:21,Credit card,50.1,4.76,2.5,6.0
+b8e04741,B,City C,Normal,Male,Electronic accessories,58.01,2,5.8,121.82,2024-06-28,04:12:01,Ewallet,116.02,4.76,5.8,6.9
+c78d776a,B,City B,Member,Male,Food and beverages,40.9,1,2.04,42.94,2025-01-06,01:53:18,Ewallet,40.9,4.76,2.04,6.1
+376e3141,B,City C,Normal,Male,Food and beverages,10.99,8,4.4,92.32,2024-11-27,13:12:11,Ewallet,87.92,4.76,4.4,6.3
+c8774b87,C,City B,Normal,Female,Sports and travel,72.52,10,36.26,761.46,2024-03-24,08:42:24,Ewallet,725.2,4.76,36.26,4.6
+872b9c4b,B,City C,Member,Male,Health and beauty,32.0,7,11.2,235.2,2025-01-03,01:12:18,Credit card,224.0,4.76,11.2,5.0
+55064a81,B,City A,Normal,Male,Electronic accessories,86.89,10,43.45,912.35,2024-12-14,16:30:37,Ewallet,868.9,4.76,43.45,7.2
+59c659cd,C,City C,Normal,Male,Fashion accessories,65.69,1,3.28,68.97,2024-05-14,13:19:54,Credit card,65.69,4.76,3.28,4.1
+80e088c5,C,City B,Member,Male,Sports and travel,20.71,1,1.04,21.75,2024-11-10,00:20:17,Ewallet,20.71,4.76,1.04,4.0
+c1ec066f,B,City B,Member,Female,Food and beverages,55.88,10,27.94,586.74,2024-10-10,17:37:35,Credit card,558.8,4.76,27.94,6.1
+2ef30354,B,City C,Normal,Male,Fashion accessories,56.84,8,22.74,477.46,2024-01-17,20:48:02,Credit card,454.72,4.76,22.74,7.7
+a22b7b13,A,City C,Member,Male,Home and lifestyle,64.12,2,6.41,134.65,2024-03-13,04:56:20,Ewallet,128.24,4.76,6.41,4.4
+40db105f,C,City B,Normal,Male,Home and lifestyle,74.22,4,14.84,311.72,2024-02-26,05:58:10,Cash,296.88,4.76,14.84,6.1
+f8ccde16,C,City C,Member,Male,Food and beverages,33.73,7,11.81,247.92,2024-02-11,03:52:54,Ewallet,236.11,4.76,11.81,8.1
+4d2302ad,C,City C,Member,Female,Electronic accessories,90.63,10,45.31,951.61,2025-01-13,18:33:14,Credit card,906.3,4.76,45.31,5.5
+cbf051c5,A,City C,Member,Male,Electronic accessories,95.71,6,28.71,602.97,2024-08-29,12:10:42,Credit card,574.26,4.76,28.71,4.2
+d4140956,C,City B,Normal,Female,Sports and travel,16.6,10,8.3,174.3,2024-08-23,17:58:07,Cash,166.0,4.76,8.3,4.0
+c7567f8d,A,City A,Member,Female,Food and beverages,93.83,3,14.07,295.56,2024-06-17,09:28:41,Ewallet,281.49,4.76,14.07,5.1
+60f9795a,C,City A,Member,Female,Health and beauty,32.97,4,6.59,138.47,2024-11-03,16:49:07,Credit card,131.88,4.76,6.59,7.6
+44d68cf7,B,City C,Normal,Male,Electronic accessories,51.23,4,10.25,215.17,2024-10-08,10:41:33,Credit card,204.92,4.76,10.25,6.6
+3e2b09de,B,City A,Member,Female,Home and lifestyle,48.32,6,14.5,304.42,2024-10-19,16:08:59,Cash,289.92,4.76,14.5,6.7
+b0d313e6,C,City C,Normal,Female,Sports and travel,41.46,8,16.58,348.26,2024-09-14,17:48:41,Cash,331.68,4.76,16.58,8.5
+f97b9541,A,City A,Normal,Male,Electronic accessories,79.51,4,15.9,333.94,2024-08-29,02:43:11,Cash,318.04,4.76,15.9,8.6
+c6aaa78e,B,City A,Member,Male,Food and beverages,37.21,6,11.16,234.42,2024-09-27,22:15:05,Cash,223.26,4.76,11.16,7.3
+800af88d,B,City A,Normal,Male,Fashion accessories,21.19,4,4.24,89.0,2024-03-15,23:27:01,Credit card,84.76,4.76,4.24,9.6
+52b6ad3a,C,City C,Normal,Female,Fashion accessories,30.49,1,1.52,32.01,2024-03-27,00:23:15,Credit card,30.49,4.76,1.52,8.5
+0f989a38,B,City B,Member,Female,Sports and travel,28.32,9,12.74,267.62,2025-01-12,18:36:19,Ewallet,254.88,4.76,12.74,6.8
+62c76adf,A,City A,Member,Female,Sports and travel,74.06,7,25.92,544.34,2024-12-13,10:51:52,Credit card,518.42,4.76,25.92,6.9
+b1e471e9,A,City C,Normal,Female,Fashion accessories,35.51,6,10.65,223.71,2024-11-26,21:47:57,Credit card,213.06,4.76,10.65,5.1
+62c82432,B,City B,Member,Female,Sports and travel,17.91,6,5.37,112.83,2024-09-11,00:00:08,Ewallet,107.46,4.76,5.37,8.8
+5f486ba5,B,City B,Member,Female,Food and beverages,97.01,9,43.65,916.74,2024-06-22,22:04:35,Cash,873.09,4.76,43.65,10.0
+65a9b10c,C,City C,Member,Female,Sports and travel,57.68,9,25.96,545.08,2025-01-14,12:20:43,Ewallet,519.12,4.76,25.96,7.8
+85e96d36,C,City B,Member,Male,Sports and travel,69.8,10,34.9,732.9,2024-03-24,18:42:26,Credit card,698.0,4.76,34.9,6.8
+a52fc273,A,City C,Normal,Female,Health and beauty,78.37,8,31.35,658.31,2024-01-23,06:12:59,Cash,626.96,4.76,31.35,6.4
+cb8bb7d3,B,City C,Normal,Male,Home and lifestyle,75.12,5,18.78,394.38,2024-06-03,09:05:54,Ewallet,375.6,4.76,18.78,5.4
+7df40e96,B,City A,Normal,Female,Home and lifestyle,24.81,1,1.24,26.05,2024-03-30,11:26:55,Credit card,24.81,4.76,1.24,5.1
+7fa4f217,A,City A,Member,Female,Health and beauty,83.11,10,41.56,872.66,2024-07-05,06:20:25,Cash,831.1,4.76,41.56,9.3
+9256cc15,B,City A,Normal,Female,Home and lifestyle,39.67,3,5.95,124.96,2024-12-06,13:14:47,Ewallet,119.01,4.76,5.95,9.8
+25ee9036,A,City B,Member,Male,Fashion accessories,99.35,5,24.84,521.59,2024-03-31,05:14:49,Ewallet,496.75,4.76,24.84,7.9
+97ce0ac1,A,City C,Member,Male,Health and beauty,61.18,5,15.29,321.19,2024-06-27,19:59:27,Cash,305.9,4.76,15.29,6.3
+bd77b6d4,B,City A,Member,Female,Home and lifestyle,47.66,8,19.06,400.34,2024-07-21,01:12:50,Cash,381.28,4.76,19.06,5.1
+dadd250f,A,City B,Member,Male,Health and beauty,59.25,4,11.85,248.85,2024-02-20,02:38:53,Cash,237.0,4.76,11.85,9.3
+e4e1bfd5,B,City C,Normal,Male,Electronic accessories,91.21,3,13.68,287.31,2024-06-15,16:03:44,Credit card,273.63,4.76,13.68,4.6
+f53637b7,C,City A,Normal,Female,Sports and travel,24.58,2,2.46,51.62,2024-08-19,11:53:33,Ewallet,49.16,4.76,2.46,6.2
+120c55bc,A,City C,Normal,Female,Sports and travel,27.56,1,1.38,28.94,2024-02-21,18:57:14,Ewallet,27.56,4.76,1.38,8.4
+c73fb466,A,City B,Normal,Female,Health and beauty,63.29,8,25.32,531.64,2024-11-05,03:26:06,Cash,506.32,4.76,25.32,6.1
+f9537589,C,City A,Normal,Female,Food and beverages,15.48,4,3.1,65.02,2024-01-15,15:40:24,Credit card,61.92,4.76,3.1,8.2
+5bf1478c,B,City B,Normal,Male,Food and beverages,36.38,3,5.46,114.6,2024-10-23,20:12:17,Cash,109.14,4.76,5.46,9.8
+10b0f8a7,C,City C,Member,Female,Sports and travel,96.36,9,43.36,910.6,2025-01-03,03:30:05,Cash,867.24,4.76,43.36,8.7
+d884ad26,C,City C,Member,Female,Sports and travel,98.77,1,4.94,103.71,2024-09-03,08:40:18,Credit card,98.77,4.76,4.94,6.8
+7a749dff,A,City C,Normal,Male,Health and beauty,91.2,2,9.12,191.52,2024-05-13,22:31:06,Cash,182.4,4.76,9.12,5.2
+2913e6a2,B,City C,Member,Male,Electronic accessories,19.92,3,2.99,62.75,2024-08-02,11:03:48,Credit card,59.76,4.76,2.99,7.6
+d47180e4,A,City A,Member,Male,Sports and travel,39.1,9,17.6,369.5,2024-07-13,17:19:35,Cash,351.9,4.76,17.6,7.4
+7560033d,B,City B,Normal,Female,Health and beauty,27.67,9,12.45,261.48,2024-10-28,07:24:04,Cash,249.03,4.76,12.45,9.4
+55aad7ed,A,City B,Member,Female,Home and lifestyle,28.29,2,2.83,59.41,2024-11-13,12:23:25,Ewallet,56.58,4.76,2.83,7.1
+6b0074f8,A,City A,Member,Female,Health and beauty,87.25,2,8.72,183.22,2024-06-29,09:45:43,Ewallet,174.5,4.76,8.72,5.3
+313a9bf3,B,City C,Normal,Male,Fashion accessories,20.79,2,2.08,43.66,2024-09-19,00:50:17,Ewallet,41.58,4.76,2.08,4.2
+b8949cd3,B,City B,Member,Female,Food and beverages,72.07,7,25.22,529.71,2024-07-15,07:28:57,Ewallet,504.49,4.76,25.22,5.7
+5c04daed,B,City C,Member,Male,Electronic accessories,86.37,5,21.59,453.44,2024-06-07,14:45:37,Ewallet,431.85,4.76,21.59,9.8
+de01dc4a,B,City A,Member,Male,Sports and travel,60.57,2,6.06,127.2,2024-04-29,15:39:59,Ewallet,121.14,4.76,6.06,8.8
+9d92310a,C,City B,Normal,Male,Sports and travel,67.29,7,23.55,494.58,2024-08-11,14:58:56,Cash,471.03,4.76,23.55,5.2
+dc2f1afb,C,City B,Normal,Male,Health and beauty,39.24,10,19.62,412.02,2024-02-06,11:47:48,Ewallet,392.4,4.76,19.62,9.6
+8aebe892,B,City B,Member,Male,Home and lifestyle,14.67,7,5.13,107.82,2024-01-17,05:02:02,Cash,102.69,4.76,5.13,8.0
+9ac36635,C,City B,Normal,Male,Sports and travel,58.56,10,29.28,614.88,2024-01-29,20:32:39,Ewallet,585.6,4.76,29.28,7.5
+8e546748,A,City A,Member,Male,Fashion accessories,24.99,7,8.75,183.68,2024-01-18,05:00:54,Ewallet,174.93,4.76,8.75,4.6
+f0f2eb90,B,City C,Normal,Female,Electronic accessories,64.12,8,25.65,538.61,2024-12-24,23:50:03,Cash,512.96,4.76,25.65,8.2
+b456276c,B,City C,Normal,Male,Electronic accessories,50.66,1,2.53,53.19,2024-07-07,08:58:30,Cash,50.66,4.76,2.53,6.1
+3492793d,C,City C,Member,Female,Food and beverages,65.86,10,32.93,691.53,2024-11-17,10:36:57,Credit card,658.6,4.76,32.93,8.0
+5192328c,C,City C,Member,Male,Home and lifestyle,52.56,3,7.88,165.56,2024-06-01,04:20:52,Cash,157.68,4.76,7.88,6.9
+76b6c74c,B,City C,Member,Male,Home and lifestyle,99.96,5,24.99,524.79,2024-01-30,17:53:13,Ewallet,499.8,4.76,24.99,6.6
+7cb75072,C,City B,Normal,Female,Sports and travel,36.76,7,12.87,270.19,2024-11-18,21:52:53,Cash,257.32,4.76,12.87,5.7
+6cbf34d8,B,City C,Member,Male,Food and beverages,39.17,3,5.88,123.39,2024-05-22,12:55:20,Cash,117.51,4.76,5.88,7.6
+f97c4753,C,City B,Member,Male,Food and beverages,50.19,10,25.09,526.99,2024-11-11,11:02:19,Credit card,501.9,4.76,25.09,4.5
+0a7a555f,B,City B,Member,Female,Home and lifestyle,80.73,7,28.26,593.37,2024-03-18,15:27:00,Cash,565.11,4.76,28.26,7.7
+8291a8aa,A,City A,Normal,Male,Electronic accessories,58.51,5,14.63,307.18,2024-09-15,13:40:42,Credit card,292.55,4.76,14.63,4.4
+79a78aec,B,City A,Member,Male,Health and beauty,95.13,7,33.3,699.21,2024-06-11,15:42:10,Cash,665.91,4.76,33.3,6.3
+df9cc250,C,City B,Member,Female,Food and beverages,90.75,8,36.3,762.3,2024-11-08,00:21:59,Cash,726.0,4.76,36.3,8.4
+44ecfc20,C,City B,Normal,Female,Health and beauty,53.48,3,8.02,168.46,2024-03-04,01:09:21,Cash,160.44,4.76,8.02,6.0
+d0dbb033,C,City A,Normal,Female,Fashion accessories,50.83,1,2.54,53.37,2024-02-26,01:14:19,Credit card,50.83,4.76,2.54,4.5
